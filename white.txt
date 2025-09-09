@@ -1,5 +1,4 @@
 @@||speedtest.net^$important
-@@||speedtest.cn^$important
 @@||chinatelecom.cn^$important
 @@||3gppnetwork.org^$important
 @@||dns.google.com^$important
