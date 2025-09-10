@@ -1,6 +1,4 @@
 @@||amap.com^$important
-@@||chinatelecom.cn^$important
-@@||3gppnetwork.org^$important
 @@||dns.google.com^$important
 @@||firebaseinstallations.googleapis.com^$important
 @@||in.appcenter.ms^$important
