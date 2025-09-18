@@ -1,11 +1,6 @@
-||api.jd.com^$important
-||bixbytouch.srcgsre.com^$important
-||ug.baidu.com^$important
-||ca.account.sony.com^$important
-||ca.account.sony.com^$important
-||ca.account.sony.com^$important
-||ca.account.sony.com^$important
-||ca.account.sony.com^$important
+||api.jd.com^
+||bixbytouch.srcgsre.com^
+||ug.baidu.com^
 ||business-ad.cdn-go.cn^
 ||httpdns.alicdn.com^
 ||httpdns.bcelive.com^
