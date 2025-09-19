@@ -10,6 +10,7 @@
 @@||www.google.com^
 @@||https://accounts.google.com/servicelogin?service=mail^
 @@||mtalk.google.com^
+@@||sponsor.ajay.app^
 @@||www.googletagmanager.com^
 @@||mail.google.com^
 @@||play.google.com^
