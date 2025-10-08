@@ -1,6 +1,0 @@
-||kersm.cn^$dnsrewrite=72.11.146.10
-||killove.cn^$dnsrewrite=104.168.13.75
-||520ily.cn^$dnsrewrite=43.133.185.94
-||kersfs.cn^$dnsrewrite=107.174.65.60
-||love701.cn^$dnsrewrite=107.175.35.80
-||lovekers.cn^$dnsrewrite=107.173.152.219
