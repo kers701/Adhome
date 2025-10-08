@@ -1,5 +1,4 @@
 @@||amap.com^
-@@||gamekee.com^
 @@||gamekee^
 @@||www.gamekee.com^
 @@||dns.google.com^
