@@ -1,3 +1,12 @@
+||affiliationjs.s3.amazonaws.com＾
+||browser.sentry-cdn.com^
+||hotjar-analytics.com＾
+||app.getsentry.com^
+||ads.facebook.com^
+||ads.reddit.com^
+||d.reddit.com^
+||tracking.india.miui.com^
+||metrics.icloud.com^
 ||api.jd.com^
 ||bixbytouch.srcgsre.com^
 ||ug.baidu.com^
