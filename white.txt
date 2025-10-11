@@ -1,4 +1,5 @@
 @@||amap.com^
+@@||raw.githubusercontent.com^
 @@||gamekee^
 @@||zhuanzhuan.com
 @@||c.pc.qq.com
