@@ -21123,7 +21123,7 @@ dynamic-dns.net
 [个人合并 2.0]
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
-! Version: 2025-10-16 22:27:11（北京时间）
+! Version: 2025-10-17 00:32:52（北京时间）
 ! Total count: 2402
 @@||"*.streaming.mediaservices.windows.net^
 @@||"mlccdn.blob.core.windows.net^
