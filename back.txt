@@ -1,5 +1,10 @@
 ||affiliationjs.s3.amazonaws.com＾
 ||browser.sentry-cdn.com^
+||app.getsentry.com^
+||ads.facebook.com^
+||ads.reddit.com^
+||metrics.icloud.com^
+||browser.sentry-cdn.com^
 ||hotjar-analytics.com＾
 ||app.getsentry.com^
 ||ads.facebook.com^
