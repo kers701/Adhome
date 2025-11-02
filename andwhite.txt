@@ -7305,9 +7305,9 @@ dynamic-dns.net
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-11-02 09:58:49（北京时间）
+! Version: 2025-11-02 20:42:24（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14061
+! Total count: 14062
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
@@ -10847,6 +10847,7 @@ dynamic-dns.net
 @@||condorsoft.co^$generichide
 @@||config.aps.amazon-adsystem.com/configs/$domain=kitco.com
 @@||config.playwire.com/*/zeus.json$domain=explosm.net
+@@||configurator.porsche.com/public/adobe-analytics-$~third-party
 @@||connatix.com$domain=babycenter.com
 @@||connatix.com*/connatix.player.$script,domain=ebaumsworld.com|funker530.com|tvinsider.com|washingtonexaminer.com
 @@||connatix.com/min/connatix.renderer.infeed.min.js$domain=accuweather.com|collider.com|gamepress.gg|salon.com
@@ -21342,16 +21343,22 @@ dynamic-dns.net
 @@||zylom.com/images/site/zylom/scripts/google-analytics.js
 @@||zynga.com/current/iframe/track.php?$domain=apps.facebook.com
 ! Title: 广告白名单规则，反馈🐧群
+#OxygenOS系统游戏空间
+@@||mini-game-gl.heytapmobile.com^
+@@||games-community-gl.heytapmobile.com^
 #冷漠
 @@||jomodns.com^
 #清心云
 @@||bcelive.com^
+#高德地图商家图片
+@@||store.is.autonavi.com^
+@@||webapi.amap.com^
 @@||tcdn.qq.com^
 [个人合并 2.0]
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
-! Version: 2025-11-02 09:00:27（北京时间）
-! Total count: 3091
+! Version: 2025-11-02 20:20:17（北京时间）
+! Total count: 3095
 @@||"*.streaming.mediaservices.windows.net^
 @@||"mlccdn.blob.core.windows.net^
 @@||*-www.sway-cdn.com^
