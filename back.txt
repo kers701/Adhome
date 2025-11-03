@@ -1,3 +1,39 @@
+72.11.146.10 dns1.killove.cn
+43.133.185.94 dns2.killove.cn
+107.174.65.60 dns3.killove.cn
+104.168.13.75 dns4.killove.cn
+107.175.35.80 dns5.killove.cn
+107.173.152.219 dns6.killove.cn
+2404:6800:4008:c07:bc mtalk.google.com
+2404:6800:4008:c07:bc alt1-mtalk.google.com
+2404:6800:4008:c07:bc alt2-mtalk.google.com 
+2404:6800:4008:c07:bc alt3-mtalk.google.com 
+2404:6800:4008:c07:bc alt4-mtalk.google.com
+2404:6800:4008:c07:bc alt5-mtalk.google.com 
+2404:6800:4008:c07:bc alt6-mtalk.google.com
+2404:6800:4008:c07:bc alt7-mtalk.google.com 
+2404:6800:4008:c07:bc alt8-mtalk.google.com
+172.217.78.188 mtalk.google.com
+172.217.78.188 alt1-mtalk.google.com
+172.217.78.188 alt2-mtalk.google.com
+192.178.164.188 alt3-mtalk.google.com
+192.178.220.188 alt4-mtalk.google.com
+74.125.27.188 alt5-mtalk.google.com
+192.178.209.188 alt6-mtalk.google.com
+192.178.152.188 alt7-mtalk.google.com
+192.178.152.188 alt8-mtalk.google.com
+43.133.185.94 520ily.cn
+107.174.65.60 dy.kersfs.cn
+72.11.146.10 kersfs.cn
+107.174.65.60 kersm.cn
+104.168.13.75 killove.cn
+107.175.35.80 love701.cn
+107.173.152.219 lovekers.cn
+107.175.35.80 email.love701.cn
+107.175.35.80 imap.love701.cn
+107.175.35.80 pop.love701.cn
+94.140.14.14 dns.adguard-dns.com
+223.5.5.5 dns.alidns.com
 ||affiliationjs.s3.amazonaws.com＾
 ||browser.sentry-cdn.com^
 ||app.getsentry.com^
