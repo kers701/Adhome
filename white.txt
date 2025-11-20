@@ -104,3 +104,5 @@
 @@||s7.zuimeitianqi.com^
 @@||hwinfo1.zuimeitianqi.com^
 @@||bd2.zuimeitianqi.com^
+@@||samsung.com^
+@@||samsung.com.cn^
