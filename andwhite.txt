@@ -21465,6 +21465,8 @@ dynamic-dns.net
 #实用工具箱
 @@||www.sygjx.com^
 @@||xbk.189.cn^
+#微信视频号
+@@||channels.weixin.qq.com^
 #图标相关
 @@||vpic.cms.qq.com^
 #微信转账到QQ
