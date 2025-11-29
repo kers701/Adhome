@@ -5235,6 +5235,7 @@ zerossl.ocsp.sectigo.com! Title: LWJ's white list
 @@||www.hao123.com^
 @@||dns.adguard.com^
 @@||dns-family.adguard.com^
+m.toutiao.com
 net-cloud.xhey.top
 stat2.openinstall.io
 game.weixin.qq.com
@@ -21497,7 +21498,7 @@ dynamic-dns.net
 [个人合并 2.0]
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
-! Version: 2025-11-29 08:56:15（北京时间）
+! Version: 2025-11-29 14:18:01（北京时间）
 ! Total count: 3112
 @@||"*.streaming.mediaservices.windows.net^
 @@||"mlccdn.blob.core.windows.net^
