@@ -1,4 +1,5 @@
 @@||github.githubassets.com^
+@@||github.com^
 @@||ipip.net^
 @@||amap.com^
 @@||raw.githubusercontent.com^
