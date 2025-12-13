@@ -2627,8 +2627,6 @@ zerossl.ocsp.sectigo.com! Title: LWJ's white list
 @@||idv-prod1.apple.com^
 @@||www.widgets.link^! Title: 广告白名单规则，反馈🐧群
 ! Homepage: https://github.com/qq5460168/me
-#迅雷app
-@@|admin-oss-xlvip.a.88cdn.com^
 #芒果手机网页版
 @@||video.da.mgtv.com^
 @@||m2.da.mgtv.com^
@@ -21536,10 +21534,12 @@ dynamic-dns.net
 @@||zylom.com/images/site/zylom/scripts/google-analytics.js
 @@||zynga.com/current/iframe/track.php?$domain=apps.facebook.com
 ! Title: 广告白名单规则，反馈🐧群
+#迅雷app
+@@|admin-oss-xlvip.a.88cdn.com^
 [个人合并 2.0]
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
-! Version: 2025-12-13 20:22:28（北京时间）
+! Version: 2025-12-14 02:16:23（北京时间）
 ! Total count: 3116
 @@||"*.streaming.mediaservices.windows.net^
 @@||"mlccdn.blob.core.windows.net^
