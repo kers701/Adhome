@@ -1,4 +1,6 @@
 @@||github.githubassets.com^
+@@||intlmapi.alipay.com^
+@@||alipay.com^
 @@||github.com^
 @@||ipip.net^
 @@||amap.com^
