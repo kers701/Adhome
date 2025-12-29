@@ -109,3 +109,5 @@
 @@||bd2.zuimeitianqi.com^
 @@||samsung.com^
 @@||samsung.com.cn^
+@@||nikke^
+@@||cloud.nikke-kr.com^
