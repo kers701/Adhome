@@ -5277,6 +5277,7 @@ zerossl.ocsp.sectigo.com! Title: LWJ's white list
 @@||www.hao123.com^
 @@||dns.adguard.com^
 @@||dns-family.adguard.com^
+v.douyin.com
 webapi.amap.com
 m.toutiao.com
 net-cloud.xhey.top
