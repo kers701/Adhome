@@ -1,3 +1,17 @@
+||affiliationjs.s3.amazonaws.com^
+||hotjar-analytics.com^
+||ads.facebook.com^
+||tracking.india.miui.com^
+||browser.sentry-cdn.com^
+||ads-dev.pinterest.com^
+||app.getsentry.com^
+||metrics.icloud.com^
+||analytics.samsungknox.com^
+||data.mistat.rus.xiaomi.com^
+||data.mistat.india.xiaomi.com^
+||data.mistat.xiaomi.com^
+||d.reddit.com^
+||ads.reddit.com^
 ||affiliationjs.s3.amazonaws.com＾
 ||browser.sentry-cdn.com^
 ||app.getsentry.com^
