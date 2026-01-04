@@ -21589,16 +21589,10 @@ dynamic-dns.net
 @@||zxzja.com:*/player-$subdocument,stealth=referrer
 @@||zylom.com/images/site/zylom/scripts/google-analytics.js
 @@||zynga.com/current/iframe/track.php?$domain=apps.facebook.com
-! Title: 广告白名单规则，反馈🐧群
-#cdn相关
-@@||v.smtcdns.com^
-#OPPO系统更新
-@@||h5fs.coloros.com^
-@@||v9-novelapp.fqnovelvod.com^
 [个人合并 2.0]
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
-! Version: 2026-01-04 20:23:43（北京时间）
+! Version: 2026-01-05 02:17:58（北京时间）
 ! Total count: 3196
 @@||"*.streaming.mediaservices.windows.net^
 @@||"mlccdn.blob.core.windows.net^
@@ -21890,6 +21884,7 @@ dynamic-dns.net
 @@||gspe*.apple.com*^
 @@||gweb-gettingstartedguide.appspot.com^
 @@||h5.sm.cn^
+@@||h5fs.coloros.com^
 @@||hdns.ksyun.com^
 @@||honor-h5.zuimeitianqi.com^
 @@||honor.zuimeitianqi.com^
@@ -22097,6 +22092,8 @@ dynamic-dns.net
 @@||v*.douyinvod.com^
 @@||v*.erome.com^
 @@||v*.kwaicdn.com^
+@@||v.smtcdns.com^
+@@||v9-novelapp.fqnovelvod.com^
 @@||vas.snssdk.com^
 @@||vcs-quality.zijieapi.com^
 @@||vcs.zijieapi.com^
