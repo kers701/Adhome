@@ -21612,8 +21612,8 @@ dynamic-dns.net
 [个人合并 2.0]
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
-! Version: 2026-01-12 20:29:14（北京时间）
-! Total count: 3196
+! Version: 2026-01-13 02:20:59（北京时间）
+! Total count: 3195
 @@||"*.streaming.mediaservices.windows.net^
 @@||"mlccdn.blob.core.windows.net^
 @@||*-www.sway-cdn.com^
@@ -22111,7 +22111,6 @@ dynamic-dns.net
 @@||v*.douyinvod.com^
 @@||v*.erome.com^
 @@||v*.kwaicdn.com^
-@@||v.smtcdns.com^
 @@||vas.snssdk.com^
 @@||vcs-quality.zijieapi.com^
 @@||vcs.zijieapi.com^
