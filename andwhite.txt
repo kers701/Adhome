@@ -21669,7 +21669,7 @@ dynamic-dns.net
 [个人合并 2.0]
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
-! Version: 2026-01-27 20:47:52（北京时间）
+! Version: 2026-01-28 09:43:19（北京时间）
 ! Total count: 3198
 @@||"*.streaming.mediaservices.windows.net^
 @@||"mlccdn.blob.core.windows.net^
