@@ -2625,8 +2625,7 @@ zerossl.ocsp.sectigo.com! Title: LWJ's white list
 @@||smp-device-content.apple.com^
 @@||idv.cdn-apple.com^
 @@||idv-prod1.apple.com^
-@@||www.widgets.link^voipfinderliveplaythirdtest.wxqcloud.qq.com
-v.douyin.com
+@@||www.widgets.link^v.douyin.com
 webapi.amap.com
 m.toutiao.com
 net-cloud.xhey.top
@@ -21648,7 +21647,7 @@ dynamic-dns.net
 [个人合并 2.0]
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
-! Version: 2026-01-30 20:54:38（北京时间）
+! Version: 2026-01-31 09:51:42（北京时间）
 ! Total count: 3198
 @@||"*.streaming.mediaservices.windows.net^
 @@||"mlccdn.blob.core.windows.net^
