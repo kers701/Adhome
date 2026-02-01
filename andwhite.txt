@@ -2625,7 +2625,8 @@ zerossl.ocsp.sectigo.com! Title: LWJ's white list
 @@||smp-device-content.apple.com^
 @@||idv.cdn-apple.com^
 @@||idv-prod1.apple.com^
-@@||www.widgets.link^v.douyin.com
+@@||www.widgets.link^voipfinderliveplaythirdtest.wxqcloud.qq.com
+v.douyin.com
 webapi.amap.com
 m.toutiao.com
 net-cloud.xhey.top
