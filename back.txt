@@ -1,6 +1,8 @@
 ||affiliationjs.s3.amazonaws.com^
 ||hotjar-analytics.com^
 ||ads.facebook.com^
+||adfstat.yandex.ru^
+||appmetrica.yandex.ru^
 ||tracking.india.miui.com^
 ||browser.sentry-cdn.com^
 ||ads-dev.pinterest.com^
