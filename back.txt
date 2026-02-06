@@ -1,6 +1,8 @@
 ||affiliationjs.s3.amazonaws.com^
 ||hotjar-analytics.com^
 ||ads.facebook.com^
+||smetrics.samsung.com^
+||logservice1.hicloud.com^
 ||notes-analytics-events.apple.com^
 ||weather-analytics-events.apple.com^
 ||books-analytics-events.apple.com^
