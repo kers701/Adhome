@@ -5321,9 +5321,9 @@ dynamic-dns.net
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-02-08 21:01:41（北京时间）
+! Version: 2026-02-09 10:42:41（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14289
+! Total count: 14290
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
@@ -14148,6 +14148,7 @@ dynamic-dns.net
 @@||mvz.hufeland.de^$stealth=dpi
 @@||mx-sh.net/advertisements.js
 @@||mx-sh.net^$generichide
+@@||mxcontent.net^$media,stealth=referrer,domain=m1xdrop.com
 @@||mxomo.com^$image,stealth=referrer,domain=kxo.moe
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=change.org|frigidaire.com
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=eloan.co.il
@@ -21641,8 +21642,8 @@ dynamic-dns.net
 [个人合并 2.0]
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
-! Version: 2026-02-08 20:47:24（北京时间）
-! Total count: 3246
+! Version: 2026-02-09 10:05:17（北京时间）
+! Total count: 3274
 @@||"*.streaming.mediaservices.windows.net^
 @@||"mlccdn.blob.core.windows.net^
 @@||*-www.sway-cdn.com^
@@ -21878,6 +21879,26 @@ dynamic-dns.net
 @@||compliance.microsoft.com^
 @@||console-intl.huaweicloud.com^
 @@||console.huaweicloud.com^
+@@||cos.ap-bangkok.myqcloud.com^
+@@||cos.ap-beijing-1.myqcloud.com^
+@@||cos.ap-beijing-fsi.myqcloud.com^
+@@||cos.ap-beijing.myqcloud.com^
+@@||cos.ap-chengdu.myqcloud.com^
+@@||cos.ap-chongqing.myqcloud.com^
+@@||cos.ap-guangzhou.myqcloud.com^
+@@||cos.ap-hongkong.myqcloud.com^
+@@||cos.ap-jakarta.myqcloud.com^
+@@||cos.ap-nanjing.myqcloud.com^
+@@||cos.ap-seoul.myqcloud.com^
+@@||cos.ap-shanghai-fsi.myqcloud.com^
+@@||cos.ap-shanghai.myqcloud.com^
+@@||cos.ap-shenzhen-fsi.myqcloud.com^
+@@||cos.ap-singapore.myqcloud.com^
+@@||cos.ap-tokyo.myqcloud.com^
+@@||cos.eu-frankfurt.myqcloud.com^
+@@||cos.na-ashburn.myqcloud.com^
+@@||cos.na-siliconvalley.myqcloud.com^
+@@||cos.sa-saopaulo.myqcloud.com^
 @@||crl.entrust.net^
 @@||crl.globalsign.com^
 @@||crl.globalsign.net^
@@ -22118,6 +22139,14 @@ dynamic-dns.net
 @@||ruac.account.xiaomi.com^
 @@||s*.erome.com^
 @@||s.yimg.com^
+@@||s3.ap-southeast-1.qiniucs.com^
+@@||s3.ap-southeast-2.qiniucs.com^
+@@||s3.ap-southeast-3.qiniucs.com^
+@@||s3.cn-east-1.qiniucs.com^
+@@||s3.cn-east-2.qiniucs.com^
+@@||s3.cn-north-1.qiniucs.com^
+@@||s3.cn-south-1.qiniucs.com^
+@@||s3.us-north-1.qiniucs.com^
 @@||s4.cnzz.com^
 @@||s7.zuimeitianqi.com^
 @@||safebrowsing-cache.google.com^
