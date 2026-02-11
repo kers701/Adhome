@@ -5321,7 +5321,7 @@ dynamic-dns.net
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-02-10 21:25:31（北京时间）
+! Version: 2026-02-11 10:48:55（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 14285
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -21637,7 +21637,7 @@ dynamic-dns.net
 [个人合并 2.0]
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
-! Version: 2026-02-10 21:10:59（北京时间）
+! Version: 2026-02-11 10:11:07（北京时间）
 ! Total count: 3274
 @@||"*.streaming.mediaservices.windows.net^
 @@||"mlccdn.blob.core.windows.net^
