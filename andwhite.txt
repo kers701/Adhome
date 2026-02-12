@@ -2065,8 +2065,7 @@ youtube.com
 youtubei.googleapis.com
 yt3.ggpht.com
 zenz-solutions.de
-zerossl.ocsp.sectigo.comcdn-thumb.fds.api.xiaomi.com
-! Title: LWJ's white list
+zerossl.ocsp.sectigo.com! Title: LWJ's white list
 ! Last modified: 2025-10-15 10:15
 !
 !短链接
@@ -2424,7 +2423,7 @@ zerossl.ocsp.sectigo.comcdn-thumb.fds.api.xiaomi.com
 #腾讯X5内核
 #支付宝医保查询
 @@||openmonitor.alipay-eco.com^$important
-zerossl.ocsp.sectigo.com@@||analytics.google.com
+@@||analytics.google.com
 @@||analytics.twitter.com
 @@||azure.com^
 @@||microsoft.com^
@@ -2626,9 +2625,7 @@ zerossl.ocsp.sectigo.com@@||analytics.google.com
 @@||smp-device-content.apple.com^
 @@||idv.cdn-apple.com^
 @@||idv-prod1.apple.com^
-@@||www.widgets.link^_dnsaddr.bootstrap.libp2p.io
-zerossl.ocsp.sectigo.com! Title: LWJ's white list
-voipfinderliveplaythirdtest.wxqcloud.qq.com
+@@||www.widgets.link^voipfinderliveplaythirdtest.wxqcloud.qq.com
 v.douyin.com
 webapi.amap.com
 m.toutiao.com
@@ -4015,12 +4012,10 @@ ow1.res.office365.com
 webshell.suite.office.com
 shellprod.msocdn.com
 dynamic-dns.net
-@@||analytics.google.com
-@@||www.widgets.link^#************************************************************************#
+#************************************************************************#
 # 文件名称：茯苓允许列表「FuLingAllowList」
 # 项目主页：https://github.com/Kuroba-Sayuki/FuLing-AdRules
 # 项目说明：本项目无开源许可证，禁止二次分发，仅作「学习＆存档」使用。
-#************************************************************************#
 # 作者名称：Kuroba-Sayuki
 # 作者主页：https://github.com/Kuroba-Sayuki
 # 规则说明A：列表规则均为网络冲浪时抓取，并已通过实机测试。
@@ -5322,7 +5317,6 @@ dynamic-dns.net
 @@||resmedi.lixincsb.com^
 @@||www.ero-labs.com^
 @@||res-r.qingjiaota.com^
-@@||www.widgets.link^voipfinderliveplaythirdtest.wxqcloud.qq.com
 [Adblock Plus 2.0]
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
