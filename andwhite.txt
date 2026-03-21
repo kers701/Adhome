@@ -20776,6 +20776,8 @@ dynamic-dns.net
 @@||o2o.api.xiaomi.com^
 @@||tvepg.pandora.xiaomi.com^
 #爱奇艺系  
+#爱奇艺小说
+@@||wenxue.iqiyi.com^
 #微信爱奇艺
 @@||static-s.iqiyi.com^
 #爱奇艺
@@ -21495,6 +21497,10 @@ dynamic-dns.net
 @@||u.oppomobile.com^
 #OPPO应用配置
 @@||appconf.heytapdownload.com^
+#oppo商城
+@@||msec.opposhop.cn^
+#HeyTap（欢太）
+@@||obus-cn.dc.heytapmobi.com^
 #皮皮虾/字节跳动
 @@||mon.snssdk.com^
 @@||mon.isnssdk.com^
