@@ -20247,34 +20247,59 @@ dynamic-dns.net
 #网页部分图标加载
 #移动端页面内容接口
 #同时也是美团App内消息页面布局
-#豆包 APP
-# 豆包主域名与API
-@@||doubao-app.cn^
-@@||*.doubao-app.cn^
-@@||open.doubao.com^
-# 豆包核心服务（对话/AI/搜索/智能体）
+#豆包
+# 核心接口
 @@||api.doubao.com^
 @@||gw.doubao.com^
 @@||chat.doubao.com^
-@@||ai.doubao.com^
 @@||agent.doubao.com^
 @@||search.doubao.com^
-# 日志/统计/推送/风控（必加，否则闪退/异常）
+@@||openapi.doubao.com^
+@@||ai.doubao.com^
+# 文件、画图、多媒体
+@@||file.doubao.com^
+@@||doc.doubao.com^
+@@||draw.doubao.com^
+@@||art.doubao.com^
+@@||media.doubao.com^
+# 静态资源、图片、CDN
+@@||static.doubao.com^
+@@||img.doubao.com^
+@@||cdn.doubao.com^
+# 登录、账号、认证
+@@||sso.doubao.com^
+@@||login.doubao.com^
+@@||passport.doubao.com^
+@@||account.doubao.com^
+# 日志、统计、安全、推送
 @@||log.doubao.com^
 @@||track.doubao.com^
 @@||report.doubao.com^
 @@||push.doubao.com^
 @@||security.doubao.com^
 @@||risk.doubao.com^
-# 登录/账号/认证/支付
-@@||sso.doubao.com^
-@@||login.doubao.com^
-@@||passport.doubao.com^
-@@||pay.doubao.com^
-# 图片/资源/静态
-@@||static.doubao.com^
-@@||img.doubao.com^
-@@||cdn.doubao.com^
+# 客户端下载、更新
+@@||download.doubao.com^
+@@||update.doubao.com^
+@@||desktop.doubao.com^
+# 豆包输入法 专用白名单
+@@||ime-igw.doubao.com^
+@@||ime-api.doubao.com^
+@@||ime-hot.doubao.com^
+@@||ime-syn.doubao.com^
+@@||ime-conf.doubao.com^
+@@||ime-log.doubao.com^
+@@||ime-stat.doubao.com^
+# 输入法云输入、语音、表情、资源
+@@||cloud-ime.doubao.com^
+@@||asr-ime.doubao.com^
+@@||tts-ime.doubao.com^
+@@||emoji-ime.doubao.com^
+@@||sticker-ime.doubao.com^
+@@||dict-ime.doubao.com^
+# 输入法静态资源 & CDN
+@@||static-ime.doubao.com^
+@@||cdn-ime.doubao.com^
 #淘宝闪购
 # 闪购/小时达/即时零售核心域名
 @@||flash.taobao.com^
@@ -22273,8 +22298,8 @@ dynamic-dns.net
 [个人合并 2.0]
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
-! Version: 2026-04-04 10:02:38（北京时间）
-! Total count: 3665
+! Version: 2026-04-04 18:02:03（北京时间）
+! Total count: 3711
 @@||"*.streaming.mediaservices.windows.net^
 @@||"mlccdn.blob.core.windows.net^
 @@||*-www.sway-cdn.com^
@@ -22284,7 +22309,6 @@ dynamic-dns.net
 @@||*.aadrm.com^
 @@||*.acompli.net^
 @@||*.activity.windows.com^
-@@||*.alipay.com^
 @@||*.appex-rf.msn.com^
 @@||*.appex.bing.com^
 @@||*.aria.microsoft.com^
@@ -22296,6 +22320,7 @@ dynamic-dns.net
 @@||*.cloud.microsoft^
 @@||*.compliance.microsoft.com^
 @@||*.cortana.ai^
+@@||*.doubao-app.cn^
 @@||*.entrust.net^
 @@||*.events.data.microsoft.com^
 @@||*.find.api.micloud.xiaomi.net^
@@ -22555,6 +22580,7 @@ dynamic-dns.net
 @@||docs.live.net^
 @@||docs.microsoft.com^
 @@||docs.scriptcat.org^
+@@||doubao-app.cn^
 @@||douyinstatic.com^
 @@||download.epicgames.com^
 @@||download2.epicgames.com^
@@ -22715,6 +22741,7 @@ dynamic-dns.net
 @@||officespeech.platform.bing.com^
 @@||omahaproxy.appspot.com^
 @@||oneclient.sfx.ms^
+@@||open.doubao.com^
 @@||orderprocessor-public-service-ecomprod01.ol.epicgames.com^
 @@||oss.b3logfile.com^
 @@||ot.io.mi.com^
@@ -22740,6 +22767,7 @@ dynamic-dns.net
 @@||partner.googleadservices.com^
 @@||partnerservices.getmicrosoftkey.com^
 @@||passwordreset.microsoftonline.com^
+@@||pay.doubao.com^
 @@||platform.linkedin.com^
 @@||polaris.zijieapi.com^
 @@||policies.google.com^
